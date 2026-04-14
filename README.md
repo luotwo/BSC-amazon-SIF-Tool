@@ -317,7 +317,7 @@ sif-mcp: https://mcp.sif.com/mcp (HTTP) - Connected
 下面是一类典型的诊断结论写法：
 
 ```text
-ASIN = B0GHMT7NS4
+ASIN = B0XXXXXX
 最近 30 天流量高波动
 近 7 天 vs 前 7 天总流量 -40%
 系统判断：ad_issue
@@ -398,3 +398,7 @@ BSC-amazon-SIF-Tool/
 - 希望把分析结果直接落地到飞书协作的人
 
 如果你已经有具体 ASIN 或关键词，可以直接开始提问。
+如果需要了解，共创，学习相关亚马逊运营Skill，请添加我们公众号和相关联系方式，进行分享相关亚马逊相关运营Skill源文件
+![9f453825a605ac5a92149be126636dc4](https://github.com/user-attachments/assets/9680fd49-0f0f-4642-8601-462ca28f1c77)
+![微信图片_20260409165035_4249_87](https://github.com/user-attachments/assets/16305816-7646-416e-9c37-e132bd592fa7)
+---<img width="844" height="376" alt="image" src="https://github.com/user-attachments/assets/0c809a29-8dad-4fd0-b5ce-d439e250a60a" />
